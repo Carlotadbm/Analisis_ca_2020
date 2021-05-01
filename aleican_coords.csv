@@ -1,0 +1,52 @@
+AleiCAN	Nombre	Localidad	Isla	Región	longitude	latitude
+LP1	Garafía,La Palma,Islas Canarias	Garafía	La Palma	Islas Canarias	-17.9176312	28.7906487
+LP2	San Andrés,La Palma,Islas Canarias	San Andrés	La Palma	Islas Canarias	-17.7606309	28.7995308
+LP3	El Paso,La Palma,Islas Canarias	El Paso	La Palma	Islas Canarias	-17.8799902	28.6517656
+LP10	Tijarafe,La Palma,Islas Canarias	Tijarafe	La Palma	Islas Canarias	-17.9561807	28.7110909
+LP20	Santa Cruz de la Palma,La Palma,Islas Canarias	Santa Cruz de la Palma	La Palma	Islas Canarias	-17.7645747	28.6839885
+LP30	Fuencaliente de la Palma,La Palma,Islas Canarias	Fuencaliente de la Palma	La Palma	Islas Canarias	-17.8465394	28.507099
+Go2	Vallehermoso,Gomera,Islas Canarias	Vallehermoso	Gomera	Islas Canarias	-17.2659008	28.1801991
+Go3	La Calera,Gomera,Islas Canarias	La Calera	Gomera	Islas Canarias	-17.3342534	28.0966054
+Go4	San Sebastián de la Gomera,Gomera,Islas Canarias	San Sebastián de la Gomera	Gomera	Islas Canarias	-17.1098582	28.0937998
+Go40	Alajeró,Gomera,Islas Canarias	Alajeró	Gomera	Islas Canarias	-17.2378262	28.0633564
+Hi1	Frontera,Hierro,Islas Canarias	Frontera	Hierro	Islas Canarias	-18.0093138	27.7543189
+Hi2	Valverde,Hierro,Islas Canarias	Valverde	Hierro	Islas Canarias	-17.9413323	27.793241
+Hi3	La Restinga,Hierro,Islas Canarias	La Restinga	Hierro	Islas Canarias	-17.982073	27.6411981
+Hi4	Taibique,Hierro,Islas Canarias	Taibique	Hierro	Islas Canarias	-17.9805914	27.7051466
+Hi10	Sabinosa,Hierro,Islas Canarias	Sabinosa	Hierro	Islas Canarias	-18.0980288	27.7470967
+Tf2	Roque de las Bodegas,Tenerife,Islas Canarias	Roque de las Bodegas	Tenerife	Islas Canarias	-16.2050732	28.5690488
+Tf3	Los Silos,Tenerife,Islas Canarias	Los Silos	Tenerife	Islas Canarias	-16.8119382	28.3537336
+Tf4	La Orotava,Tenerife,Islas Canarias	La Orotava	Tenerife	Islas Canarias	-16.5238744	28.3913534
+Tf5	Vilaflor,Tenerife,Islas Canarias	Vilaflor	Tenerife	Islas Canarias	-16.6372355	28.1578174
+Tf6	El Médano,Tenerife,Islas Canarias	El Médano	Tenerife	Islas Canarias	-16.5363109	28.0459835
+Tf20	La Laguna,Tenerife,Islas Canarias	La Laguna	Tenerife	Islas Canarias	-16.3159061	28.4874009
+Tf21	Santa Cruz de Tenerife,Tenerife,Islas Canarias	Santa Cruz de Tenerife	Tenerife	Islas Canarias	-16.2518467	28.4636296
+Tf30	Icod,Tenerife,Islas Canarias	Icod	Tenerife	Islas Canarias	-16.7137571	28.3671432
+Tf31	Guía de Isora,Tenerife,Islas Canarias	Guía de Isora	Tenerife	Islas Canarias	-16.7787562	28.2111121
+Tf40	Arafo,Tenerife,Islas Canarias	Arafo	Tenerife	Islas Canarias	-16.4214477	28.3385856
+Tf41	Arico,Tenerife,Islas Canarias	Arico	Tenerife	Islas Canarias	-16.5112712	28.1925961
+Tf50	Los Cristianos,Tenerife,Islas Canarias	Los Cristianos	Tenerife	Islas Canarias	-16.7115979	28.0489062
+GC1	Guía,Gran Canaria,Islas Canarias	Guía	Gran Canaria	Islas Canarias	-15.6060661	28.1074494
+GC2	Las Palmas,Gran Canaria,Islas Canarias	Las Palmas	Gran Canaria	Islas Canarias	-15.4362574	28.1235459
+GC3	Mogán,Gran Canaria,Islas Canarias	Mogán	Gran Canaria	Islas Canarias	-15.7116464	27.8783885
+GC4	San Bartolomé de Tirajana,Gran Canaria,Islas Canarias	San Bartolomé de Tirajana	Gran Canaria	Islas Canarias	-15.5730295	27.9249459
+GC10	Agaete,Gran Canaria,Islas Canarias	Agaete	Gran Canaria	Islas Canarias	-15.6996738	28.1002592
+GC11	Artenara,Gran Canaria,Islas Canarias	Artenara	Gran Canaria	Islas Canarias	-15.6469747	28.0211008
+GC12	San Nicolás,Gran Canaria,Islas Canarias	San Nicolás	Gran Canaria	Islas Canarias	-15.7793741	27.9822218
+GC20	Teror,Gran Canaria,Islas Canarias	Teror	Gran Canaria	Islas Canarias	-15.5459718	28.0616461
+GC30	Arguineguín,Gran Canaria,Islas Canarias	Arguineguín	Gran Canaria	Islas Canarias	-15.6833181	27.7619672
+GC40	Aguimes,Gran Canaria,Islas Canarias	Aguimes	Gran Canaria	Islas Canarias	-15.4463485	27.9018327
+Fv1	Betancuria,Fuerteventura,Islas Canarias	Betancuria	Fuerteventura	Islas Canarias	-14.0573049	28.4248761
+Fv2	La Oliva,Fuerteventura,Islas Canarias	La Oliva	Fuerteventura	Islas Canarias	-13.9267252	28.6100767
+Fv3	Tuineje,Fuerteventura,Islas Canarias	Tuineje	Fuerteventura	Islas Canarias	-14.0471443	28.3258026
+Fv20	Puerto del Rosario,Fuerteventura,Islas Canarias	Puerto del Rosario	Fuerteventura	Islas Canarias	-13.8628367	28.500821
+Fv30	Morro Jable,Fuerteventura,Islas Canarias	Morro Jable	Fuerteventura	Islas Canarias	-14.351552	28.0511096
+Fv31	La Lajita,Fuerteventura,Islas Canarias	La Lajita	Fuerteventura	Islas Canarias	-14.1516884	28.1846036
+Lz1	Tiagua,Lanzarote,Islas Canarias	Tiagua	Lanzarote	Islas Canarias	-13.6319304	29.0553795
+Lz2	Haría,Lanzarote,Islas Canarias	Haría	Lanzarote	Islas Canarias	-13.4981486	29.1468257
+Lz3	Femés,Lanzarote,Islas Canarias	Femés	Lanzarote	Islas Canarias	-13.7774363	28.9140751
+Lz4	Arrecife,Lanzarote,Islas Canarias	Arrecife	Lanzarote	Islas Canarias	-13.5550363	28.9651694
+Lz10	El Cuchillo,Lanzarote,Islas Canarias	El Cuchillo	Lanzarote	Islas Canarias	-13.6630451	29.0814081
+Lz20	Teguise,Lanzarote,Islas Canarias	Teguise	Lanzarote	Islas Canarias	-13.5668302	29.0720515
+Lz30	Puerto del Carmen,Lanzarote,Islas Canarias	Puerto del Carmen	Lanzarote	Islas Canarias	-13.6681095	28.9228023
+Gs1	Caleta del Sebo,La Graciosa,Islas Canarias	Caleta del Sebo	La Graciosa	Islas Canarias	-13.5034144	29.2314646

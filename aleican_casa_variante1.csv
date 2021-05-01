@@ -1,0 +1,52 @@
+﻿Atlas;ID;Nombre;Transcripcion_ortografica;Variantes_casa_1;Variantes_casa_2;Preposicion_anterior;Casa;Preposicion_posterior
+ALEICan;LP1;Garafía,La Palma,Islas Canarias;a casa del;a casa de;;a;casa;de
+ALEICan;LP2;San Andrés,La Palma,Islas Canarias;a casa el;a casa;;a;casa;articulo_pleno
+ALEICan;LP3;El Paso,La Palma,Islas Canarias;voy casa del;casa de;;no;casa;de
+ALEICan;LP10;Tijarafe,La Palma,Islas Canarias;a casa del;a casa de;;a;casa;de
+ALEICan;LP20;Santa Cruz de la Palma,La Palma,Islas Canarias;voy casa el;casa;;no;casa;articulo_pleno
+ALEICan;LP30;Fuencaliente de la Palma,La Palma,Islas Canarias;voy en casa el;en casa;;en;casa;articulo_pleno
+ALEICan;Go2;Vallehermoso,Gomera,Islas Canarias;voy en casa del;en casa de;;en;casa;de
+ALEICan;Go3;La Calera,Gomera,Islas Canarias;voy casa del;casa de;;no;casa;de
+ALEICan;Go4;San Sebastián de la Gomera,Gomera,Islas Canarias;voy casa el;casa;;no;casa;articulo_pleno
+ALEICan;Go40;Alajeró,Gomera,Islas Canarias;voy a casa el;a casa;;a;casa;articulo_pleno
+ALEICan;Hi1;Frontera,Hierro,Islas Canarias;voy a casa el;a casa;;a;casa;articulo_pleno
+ALEICan;Hi2;Valverde,Hierro,Islas Canarias;voy a casa del;a casa de;;a;casa;de
+ALEICan;Hi3;La Restinga,Hierro,Islas Canarias;voy a casa del;a casa de;;a;casa;de
+ALEICan;Hi4;Taibique,Hierro,Islas Canarias;voy a casa el;a casa;;a;casa;articulo_pleno
+ALEICan;Hi10;Sabinosa,Hierro,Islas Canarias;voy a casa el;a casa;;a;casa;articulo_pleno
+ALEICan;Tf2;Roque de las Bodegas,Tenerife,Islas Canarias;a casa del;a casa de;;a;casa;de
+ALEICan;Tf3;Los Silos,Tenerife,Islas Canarias;voy a casa el;a casa;;a;casa;articulo_pleno
+ALEICan;Tf4;La Orotava,Tenerife,Islas Canarias;voy a casa del;a casa de;;a;casa;de
+ALEICan;Tf5;Vilaflor,Tenerife,Islas Canarias;voy casa del;casa de;;no;casa;de
+ALEICan;Tf6;El Médano,Tenerife,Islas Canarias;voy casa el;casa;;no;casa;articulo_pleno
+ALEICan;Tf20;La Laguna,Tenerife,Islas Canarias;voy casa del;casa de;;no;casa;de
+ALEICan;Tf21;Santa Cruz de Tenerife,Tenerife,Islas Canarias;a voy casa del;casa de;;no?;casa;de
+ALEICan;Tf30;Icod,Tenerife,Islas Canarias;voy a casa del;a casa de;;a;casa;de
+ALEICan;Tf31;Guía de Isora,Tenerife,Islas Canarias;voy casa del;casa de;;no;casa;de
+ALEICan;Tf40;Arafo,Tenerife,Islas Canarias;"voy casa del, a; cas de";casa de;cas de;no;casa;de
+ALEICan;Tf41;Arico,Tenerife,Islas Canarias;voy a casa del;a casa de;;a;casa;de
+ALEICan;Tf50;Los Cristianos,Tenerife,Islas Canarias;voy a casa del;a casa de;;a;casa;de
+ALEICan;GC1;Guía,Gran Canaria,Islas Canarias;a casa del;a casa de;;a;casa;de
+ALEICan;GC2;Las Palmas,Gran Canaria,Islas Canarias;"voy casa del; voy a ca; casa del";casa de;a ca;no;casa;de
+ALEICan;GC3;Mogán,Gran Canaria,Islas Canarias;a casa;a casa;;a;casa;no
+ALEICan;GC4;San Bartolomé de Tirajana,Gran Canaria,Islas Canarias;casa el;casa;;no;casa;articulo_pleno
+ALEICan;GC10;Agaete,Gran Canaria,Islas Canarias;casa del: cv. Ca del;casa de;ca de;no;casa;de
+ALEICan;GC11;Artenara,Gran Canaria,Islas Canarias;a la casa el;a la casa;;a;la casa;articulo_pleno
+ALEICan;GC12;San Nicolás,Gran Canaria,Islas Canarias;ca'l;ca;;no;ca;no
+ALEICan;GC20;Teror,Gran Canaria,Islas Canarias;voy cal;ca;;no;ca;no
+ALEICan;GC30;Arguineguín,Gran Canaria,Islas Canarias;a casa;a casa;;a;casa;no
+ALEICan;GC40;Aguimes,Gran Canaria,Islas Canarias;en casa del;en casa de;;en;casa;de
+ALEICan;Fv1;Betancuria,Fuerteventura,Islas Canarias;a casa del;a casa de;;a;casa;de
+ALEICan;Fv2;La Oliva,Fuerteventura,Islas Canarias;en casa del;en casa de;;en;casa;de
+ALEICan;Fv3;Tuineje,Fuerteventura,Islas Canarias;en casa del;en casa de;;en;casa;de
+ALEICan;Fv20;Puerto del Rosario,Fuerteventura,Islas Canarias;a casa el;a casa;;a;casa;articulo_pleno
+ALEICan;Fv30;Morro Jable,Fuerteventura,Islas Canarias;a casa del;a casa de;;a;casa;de
+ALEICan;Fv31;La Lajita,Fuerteventura,Islas Canarias;a casa del;a casa de;;a;casa;de
+ALEICan;Lz1;Tiagua,Lanzarote,Islas Canarias;a casa el;a casa;;a;casa;articulo_pleno
+ALEICan;Lz2;Haría,Lanzarote,Islas Canarias;a casa del;a casa de;;a;casa;de
+ALEICan;Lz3;Femés,Lanzarote,Islas Canarias;voy casa del;casa de;;no;casa;de
+ALEICan;Lz4;Arrecife,Lanzarote,Islas Canarias;a ca el, voy cah el;a ca;cas;a;ca;articulo_pleno
+ALEICan;Lz10;El Cuchillo,Lanzarote,Islas Canarias;NA;;;NA;NA;NA
+ALEICan;Lz20;Teguise,Lanzarote,Islas Canarias;a ca el;a ca;;a;ca;articulo_pleno
+ALEICan;Lz30;Puerto del Carmen,Lanzarote,Islas Canarias;a casa del;a casa de;;a;casa;de
+ALEICan;Gs1;Caleta del Sebo,La Graciosa,Islas Canarias;a casa el;a casa;;a;casa;articulo_pleno

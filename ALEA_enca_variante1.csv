@@ -1,0 +1,230 @@
+﻿Atlas;ID;Localidad;Provincia;Comunidad;Transcripcion_ortografica;Variantes_casa_1;Variantes_casa_2;Preposicion_anterior;Casa;Preposicion_posterior
+ALEA;H 100;Encinasola;Huelva;Andalucía;a casa el, ca el;a casa;ca;a;casa;articulo_pleno
+ALEA;H 101;Rosal de la Frontera;Huelva;Andalucía;a casa del;a casa de;;a;casa;de
+ALEA;H 102;Aroche;Huelva;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;H 200;Cumbres de San Bartolomé;Huelva;Andalucía;a casa l;a casa;;a;casa;no
+ALEA;H 201;Arroyomoloinos de León;Huelva;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;H 202;Aracena;Huelva;Andalucía;a casa el;a casa;;a;casa;articulo_pleno
+ALEA;H 203;Santa Olalla del Cala;Huelva;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;H 204;Almonaster la Real;Huelva;Andalucía;a casa el;a casa;;a;casa;articulo_pleno
+ALEA;H 300;Cabezas Rubias;Huelva;Andalucía;en ca m;en ca;;en;ca;no
+ALEA;H 301;Calañas;Huelva;Andalucía;a casa del;a casa de;;a;casa;de
+ALEA;H 302;La Puebla de Guzmán;Huelva;Andalucía;an cah el;an cas;;an;ca;articulo_pleno
+ALEA;H 303;Sanlúcar de Guadiana;Huelva;Andalucía;en casa er;en cas;;en;cas;articulo_pleno
+ALEA;H 400;Higuera de la Sierra;Huelva;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;H 401;Campofrío;Huelva;Andalucía;a casa del;a casa de;;a;casa;de
+ALEA;H 402;Berrocal;Huelva;Andalucía;a casa der, en ca der;a casa de;en ca;a;casa;de
+ALEA;H 500;San Bartolomé de la Torre;Huelva;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;H 501;San Silvestre de Guzmán;Huelva;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;H 502;Moguer;Huelva;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;H 503;Huelva;Huelva;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;H 504;Ayamonte;Huelva;Andalucía;en ca r;en ca;;en;ca;no
+ALEA;H 600;Beas;Huelva;Andalucía;an ca r;an ca;;an;ca;no
+ALEA;H 601;Paterna del Campo;Huelva;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;H 602;Niebla;Huelva;Andalucía;en ca r;en ca;;en;ca;no
+ALEA;H 603;Bollullos Par del Condado;Huelva;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Se 100;Guadacanal;Sevilla;Andalucía;en cah;en cas;;en;cas;no
+ALEA;Se 101;El Real de la Jara;Sevilla;Andalucía;en casa l;en casa;;en;casa;no
+ALEA;Se 102;El Pedroso;Sevilla;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Se 200;Navas de la Concepción;Sevilla;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Se 201;La Puebla de los Infantes;Sevilla;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Se 300;Castilblanco;Sevilla;Andalucía;en ca r;en ca;;en;ca;no
+ALEA;Se 301;El Madroño;Sevilla;Andalucía;a ca der;a ca de;;a;ca;de
+ALEA;Se 302;El Garrobo;Sevilla;Andalucía;en ca r;en ca;;en;ca;no
+ALEA;Se 303;Alcolea del Río;Sevilla;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Se 304;Burguillos;Sevilla;Andalucía;en ca;en ca;;en;ca;no
+ALEA;Se 305;Aznalcóllar;Sevilla;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Se 306;Olivares;Sevilla;Andalucía;a casa;a casa;;a;casa;no
+ALEA;Se 307;Sevilla;Sevilla;Andalucía;a casa;a casa;;a;casa;no
+ALEA;Se 308;Viso del Alcor;Sevilla;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Se 309;Bollullos de la Mitacion;Sevilla;Andalucía;en ca er;en ca;;en;ca;articulo_pleno
+ALEA;Se 310;Pilas;Sevilla;Andalucía;ca er;ca;;no;ca;articulo_pleno
+ALEA;Se 400;La Campana;Sevilla;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Se 401;Écija;Sevilla;Andalucía;an ca r;an ca;;an;ca;no
+ALEA;Se 402;Carmona;Sevilla;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Se 403;Marinaleda;Sevilla;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Se 404;La Lantejuela;Sevilla;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Se 405;Casariche;Sevilla;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Se 406;Paradas;Sevilla;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Se 500;Puebla del Río;Sevilla;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Se 501;Villafranca y los Palacios;Sevilla;Andalucía;en casa el;en casa;;en;casa;articulo_pleno
+ALEA;Se 502;Los Molares;Sevilla;Andalucía;en casa;en casa;;en;casa;no
+ALEA;Se 503;Cabezas de San Juan;Sevilla;Andalucía;an ca el;an ca;;an;ca;articulo_pleno
+ALEA;Se 600;La Puebla de Cazalla;Sevilla;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Se 601;Morón de la Frontera;Sevilla;Andalucía;en casa el;en casa;;en;casa;articulo_pleno
+ALEA;Se 603;Pruna;Sevilla;Andalucía;an ca r;an ca;;an;ca;no
+ALEA;Ca 100;Trebujena;Cádiz;Andalucía;en ca el;en ca;;en;ca;articulo_pleno
+ALEA;Ca 101;Chipiona;Cádiz;Andalucía;en ca el, ca l;en ca;ca;en;ca;articulo_pleno
+ALEA;Ca 102;Jerez de la Frontera;Cádiz;Andalucía;a casa;a casa;;a;casa;no
+ALEA;Ca 200;Puerto-Serrano;Cádiz;Andalucía;en ca er;en ca;;en;ca;articulo_pleno
+ALEA;Ca 201;Prado del Rey;Cádiz;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Ca 202;Setenil;Cádiz;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Ca 203;Arcos de la Frontera;Cádiz;Andalucía;en ca er;en ca;;en;ca;articulo_pleno
+ALEA;Ca 204;Benaocaz;Cádiz;Andalucía;an ca r;an ca;;an;ca;no
+ALEA;Ca 205;Algar;Cádiz;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Ca 300;Cádiz;Cádiz;Andalucía;a casa de;a casa de;;a;casa;de
+ALEA;Ca 301;Paterna de Rivera;Cádiz;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Ca 302;Benalup de Sidonia (Casas Viejas);Cádiz;Andalucía;en ca r;en ca;;en;ca;no
+ALEA;Ca 400;Jimena de la Frontera;Cádiz;Andalucía;an ca er;an ca;;an;ca;articulo_pleno
+ALEA;Ca 500;Vejer de la Frontera;Cádiz;Andalucía;an ca r;an ca;;an;ca;no
+ALEA;Ca 600;Castellar de la Frontera;Cádiz;Andalucía;casa er;casa;;no;casa;articulo_pleno
+ALEA;Ca 601;Facinas;Cádiz;Andalucía;an ca er;an ca;;an;ca;articulo_pleno
+ALEA;Ca 602;Algeciras;Cádiz;Andalucía;en casa er;en casa;;en;casa;articulo_pleno
+ALEA;Co 100;Santa Eufemia;Córdoba;Andalucía;en casa el;en casa;;en;casa;articulo_pleno
+ALEA;Co 101;Valsequillo;Córdoba;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Co 102;Villanueva del Duque;Córdoba;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Co 103;Cuenca;Córdoba;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Co 104;Bélmez;Córdoba;Andalucía;en ca r;en ca;;en;ca;no
+ALEA;Co 200;Torrecampo;Córdoba;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Co 201;Conquista;Córdoba;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Co 202;Villanueva de Córdoba;Córdoba;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Co 300;Villaharta;Córdoba;Andalucía;a casa del, a ca l;a casa de;a ca;a;casa;de
+ALEA;Co 301;Almodóvar del Río;Córdoba;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Co 302;Palma del Río;Córdoba;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Co 400;Venta del Charco;Córdoba;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;C 401;Montoro;Córdoba;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Co 402;Córdoba;Córdoba;Andalucía;a casa;a casa;;a;casa;no
+ALEA;Co 403;Cañete de las Torres;Córdoba;Andalucía;en ca l, a la casa;en ca;a la casa;en;ca;no
+ALEA;Co 600;Espejo;Córdoba;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Co 601;San Sebastián de los Ballesteros;Córdoba;Andalucía;a ca r;a ca;;a;ca;no
+ALEA;Co 602;Baena;Córdoba;Andalucía;a ca;a ca;;a;ca;no
+ALEA;Co 603;Montalbán de Córdoba;Córdoba;Andalucía;en ca r;en ca;;en;ca;no
+ALEA;Co 604;Nueva Carteya;Córdoba;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Co 605;Castil de Campos;Córdoba;Andalucía;casa del;casa de;;no;casa;de
+ALEA;Co 606;Monturque;Córdoba;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Co 607;Lucena;Córdoba;Andalucía;an casa;an casa;;an;casa;no
+ALEA;Co 608;Jauja;Córdoba;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Co 609;Iznájar;Córdoba;Andalucía;an ca el;an ca;;an;ca;articulo_pleno
+ALEA;Ma 100;Sierra de Yeguas;Málaga;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Ma 101;Teba;Málaga;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Ma 102;Cañete la Real;Málaga;Andalucía;en ca r;en ca;;en;ca;no
+ALEA;Ma 200;Alameda;Málaga;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Ma 201;Villanieva de Algaidas;Málaga;Andalucía;a lo el;otros;;NA;NA;NA
+ALEA;Ma 202;Villanueva del Trabuco;Málaga;Andalucía;an cada de m (¿variante ceceante?);an casa de;;an;casa;de
+ALEA;Ma 203;Antequera;Málaga;Andalucía;a la casa;a la casa;;a;la casa;no
+ALEA;Ma 300;Ardales;Málaga;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Ma 301;Ronda;Málaga;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Ma 302;Yunquera;Málaga;Andalucía;en ca er;en ca;;en;ca;articulo_pleno
+ALEA;Ma 303;Atajate;Málaga;Andalucía;a casa der;a casa de;;a;casa;de
+ALEA;Ma 304;Igualeja;Málaga;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Ma 400;Valle de Abdalagís;Málaga;Andalucía;a en ca l;a en ca;;a en;ca;no
+ALEA;Ma 401;Riogordo;Málaga;Andalucía;a en ca l;a en ca;;a en;ca;no
+ALEA;Ma 402;Salares;Málaga;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Ma 403;Almogía;Málaga;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Ma 404;Benamocarra;Málaga;Andalucía;a casa l;a casa;;a;casa;no
+ALEA;Ma 405;Nerja;Málaga;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Ma 406;Málaga;Málaga;Andalucía;a ca el, a casa del;a ca;a casa de;a;ca;articulo_pleno
+ALEA;Ma 407;Cártama;Málaga;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Ma 408;Coín;Málaga;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Ma 500;Jubrique;Málaga;Andalucía;en ca er;en ca;;en;ca;articulo_pleno
+ALEA;Ma 501;Benahavís;Málaga;Andalucía;en cah el;en cas;;en;cas;articulo_pleno
+ALEA;Ma 502;Gaucín;Málaga;Andalucía;an ca er;an ca;;an;ca;articulo_pleno
+ALEA;Ma 503;Estepona;Málaga;Andalucía;en ca el;en ca;;en;ca;articulo_pleno
+ALEA;Ma 600;Mijas;Málaga;Andalucía;en ca el;en ca;;en;ca;articulo_pleno
+ALEA;J 100;Aldeaquemada;Jaén;Andalucía;en casa l, ca el;en casa;ca;en;casa;no
+ALEA;J 101;Santa Elena;Jaén;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;J 102;Isabela;Jaén;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;J 103;Baños de la Encina;Jaén;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;J 200;Villarrodrigo;Jaén;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;J 201;Orcera;Jaén;Andalucía;casa del;casa de;;no;casa;de
+ALEA;J 202;Beas de Segura;Jaén;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;J 203;Santisteban del Puerto;Jaén;Andalucía;casa del;casa de;;no;casa;de
+ALEA;J 204;Villacarrillo;Jaén;Andalucía;as el;as el;;ambiguo;as;articulo_pleno
+ALEA;J 205;Sabiota;Jaén;Andalucía;as el;as el;;ambiguo;as;articulo_pleno
+ALEA;J 300;Canena;Jaén;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;J 301;Jabalquinto;Jaén;Andalucía;as er;as el;;ambiguo;as;articulo_pleno
+ALEA;J 302;Cazalilla;Jaén;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;J 303;Arjonilla;Jaén;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;J 304;Torrequebradilla;Jaén;Andalucía;as el;as el;;ambiguo;as;articulo_pleno
+ALEA;J 305;Fuerte del Rey;Jaén;Andalucía;a la casa del;a la casa de;;a;la casa;de
+ALEA;J 306;Porcuna;Jaén;Andalucía;a la casa del;a la casa de;;a;la casa;de
+ALEA;J 307;Torres;Jaén;Andalucía;casa l;casa;;no;casa;no
+ALEA;J 308;Jaén;Jaén;Andalucía;an ca l, casa del;en ca;casa de;en;ca;no
+ALEA;J 309;Santiago de Calatrava;Jaén;Andalucía;as el;as el;;ambiguo;as;articulo_pleno
+ALEA;J 400;Santiago de la Espada;Jaén;Andalucía;casa l, a ca l;casa;a ca;no;casa;no
+ALEA;J 401;La Iruela;Jaén;Andalucía;a casa l;a casa;;a;casa;no
+ALEA;J 402;Peal de Becerro;Jaén;Andalucía;a lo el;otros;;NA;NA;NA
+ALEA;J 403;Jódar;Jaén;Andalucía;a casa der;a casa de;;a;casa;de
+ALEA;J 404;Larva;Jaén;Andalucía;as el;as el;;ambiguo;as;articulo_pleno
+ALEA;J 500;Huelma;Jaén;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;J 501;Alcaudete;Jaén;Andalucía;as el;as el;;ambiguo;as;articulo_pleno
+ALEA;J 502;Valdepeñas de Jaén;Jaén;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;J 503;Noalejo;Jaén;Andalucía;as er;as el;;ambiguo;as;articulo_pleno
+ALEA;J 504;Alcalá la Real;Jaén;Andalucía;cas el;cas;;no;cas;articulo_pleno
+ALEA;J 600;Pozo-Alcón;Jaén;Andalucía;a cas el;a cas;;a;cas;articulo_pleno
+ALEA;Gr 200;Puebla de don Fadrique;Granada;Andalucía;casa l, a ca l;casa;a ca;no;casa;no
+ALEA;Gr 201;Huéscar;Granada;Andalucía;casa l;casa;;no;casa;no
+ALEA;Gr 202;Castril de la Peña;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 203;Galera;Granada;Andalucía;en casa;en casa;;en;casa;no
+ALEA;Gr 300;Montejícar;Granada;Andalucía;a ques el;a ques;;a;ques;articulo_pleno
+ALEA;Gr 301;Colomera;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 302;Iznalloz;Granada;Andalucía;a cas er;a cas;;a;cas;articulo_pleno
+ALEA;Gr 303;Algarinejo;Granada;Andalucía;as el;as el;;ambiguo;as;articulo_pleno
+ALEA;Gr 304;Diezma;Granada;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Gr 305;Caparacena;Granada;Andalucía;cah el;cas;;no;cas;articulo_pleno
+ALEA;Gr 306;Brácana;Granada;Andalucía;a la casa el;a la casa;;a;la casa;articulo_pleno
+ALEA;Gr 307;Quéntar;Granada;Andalucía;an ca l;an ca;;an;ca;no
+ALEA;Gr 308;Belicena;Granada;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Gr 309;Granada;Granada;Andalucía;a ca l, a casa l;a ca;a casa;a;ca;no
+ALEA;Gr 400;Cúllar-Baza;Granada;Andalucía;cas el;cas;;no;cas;articulo_pleno
+ALEA;Gr 401;Dehesas del Guadix;Granada;Andalucía;a cas el;a cas;;a;cas;articulo_pleno
+ALEA;Gr 402;Freila;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 403;Pedro Martínez;Granada;Andalucía;a cas er;a cas;;a;cas;articulo_pleno
+ALEA;Gr 404;Caniles;Granada;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Gr 405;Gor;Granada;Andalucía;a cas el;a cas;;a;cas;articulo_pleno
+ALEA;Gr 406;Guadix;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 407;Charches;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 408;Lugros;Granada;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Gr 409;Ferreira;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 410;Lanteira;Granada;Andalucía;a casa del;a casa de;;a;casa;de
+ALEA;Gr 500;Salar de Loja;Granada;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Gr 501;Monachil;Granada;Andalucía;a que m;a que;;a;que;ambiguo
+ALEA;Gr 502;Chimeneas;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 503;Escúzar;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 504;El Padul;Granada;Andalucía;a casa er;a casa;;a;casa;articulo_pleno
+ALEA;Gr 505;Capileira;Granada;Andalucía;casa er;casa;;no;casa;articulo_pleno
+ALEA;Gr 506;Pórtugos;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 507;Ventas de Zafarraya;Granada;Andalucía;en casa del;en casa de;;en;casa;de
+ALEA;Gr 508;Jayena;Granada;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Gr 509;Albuñuelas;Granada;Andalucía;a queh er;a ques;;a;ques;articulo_pleno
+ALEA;Gr 510;Órgiva;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 511;Alcázar;Granada;Andalucía;a casa er;a casa;;a;casa;articulo_pleno
+ALEA;Gr 512;Guájar Faragüit;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 513;Lújar;Granada;Andalucía;a ca r;a ca;;a;ca;no
+ALEA;Gr 514;Almuñecar;Granada;Andalucía;a la casa l;a la casa;;a;la casa;no
+ALEA;Gr 515;Gualchas;Granada;Andalucía;casa der;casa de;;no;casa;de
+ALEA;Gr 600;Mairena;Granada;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Gr 601;Trévelez;Granada;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Gr 602;Bérchules;Granada;Andalucía;a la casa er;a la casa;;a;la casa;articulo_pleno
+ALEA;Gr 603;Murtas;Granada;Andalucía;en ca l;en ca;;en;ca;no
+ALEA;Gr 604;Albuñol;Granada;Andalucía;an ca el;an ca;;an;ca;articulo_pleno
+ALEA;Al 100;Lúcar;Almería;Andalucía;en casa del, ca l;en casa de;ca;en;casa;de
+ALEA;Al 200;Topares;Almería;Andalucía;casa del;casa de;;no;casa;de
+ALEA;Al 201;Vélez-Rubio;Almería;Andalucía;ca l;ca;;no;ca;no
+ALEA;Al 202;Contador;Almería;Andalucía;cas el;cas;;no;cas;articulo_pleno
+ALEA;Al 203;Oria;Almería;Andalucía;casa del;casa de;;no;casa;de
+ALEA;Al 204;La Perulera;Almería;Andalucía;a ca der;a ca de;;a;ca;de
+ALEA;Al 205;Pulpi;Almería;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Al 300;Alcóntar;Almería;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Al 301;Bacares;Almería;Andalucía;ca l;ca;;no;ca;no
+ALEA;Al 302;Gérgal;Almería;Andalucía;a casa del;a casa de;;a;casa;de
+ALEA;Al 303;Abla;Almería;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Al 400;Cantoria;Almería;Andalucía;ca l;ca;;no;ca;no
+ALEA;Al 401;Tahal;Almería;Andalucía;ca dθ-el ¿Variante ceceante? Sospecho que sí;cas;;no;cas;articulo_pleno
+ALEA;Al 402;Vera;Almería;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Al 403;Lubrín;Almería;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Al 404;Palomares;Almería;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Al 405;Gafarillos;Almería;Andalucía;a ca del;a ca de;;a;ca;de
+ALEA;Al 500;Tabernas;Almería;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Al 501;Alboloduy;Almería;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Al 502;Ohanes;Almería;Andalucía;a ca r;a ca;;a;ca;no
+ALEA;Al 503;Paterna del Río;Almería;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Al 504;Alcolea del Río;Almería;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Al 505;Benahadux;Almería;Andalucía;en casa der;en casa de;;en;casa;de
+ALEA;Al 506;Felix;Almería;Andalucía;casa der;casa de;;no;casa;de
+ALEA;Al 507;Berja;Almería;Andalucía;a ca l;a ca;;a;ca;no
+ALEA;Al 508;Almería;Almería;Andalucía;a ca el, a casa l;a ca;a casa;a;ca;articulo_pleno
+ALEA;Al 509;Balerma;Almería;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Al 600;Carboneras;Almería;Andalucía;a ca el;a ca;;a;ca;articulo_pleno
+ALEA;Al 601;Níjar;Almería;Andalucía;a ca r;a ca;;a;ca;no
+ALEA;Al 602;San José;Almería;Andalucía;a ca l;a ca;;a;ca;no
