@@ -1,5 +1,7 @@
+#Carlota de Benito Moreno
+#Análisis "ca": COSER
 #Apartado 3.2
-#COSER: en ca
+
 
 #librerías
 library(tidyverse)

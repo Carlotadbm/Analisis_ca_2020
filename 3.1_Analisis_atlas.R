@@ -1,4 +1,7 @@
-#Atlas: en ca
+#Carlota de Benito Moreno
+#Análisis "ca": atlas
+#Apartado 3.1
+
 
 ##Mapas: se han realizado en QGIS
 #El mapa 1 emplea los datos del archivo "35_Voy a casa del maestro_CdBM_variante1.csv"

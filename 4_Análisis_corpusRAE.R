@@ -1,5 +1,6 @@
-#Enca: corpus académicos
-#1 de mayo de 2020
+#Carlota de Benito Moreno
+#Análisis "ca": corpus académicos
+#Apartado 4
 
 #librerías
 library(tidyverse)
@@ -53,7 +54,6 @@ enca_RAE %>%
   arrange(desc(n))
 
 ##Formas de "casa" a lo largo del tiempo y país, un ejemplo por autor (figura 3)
-
 
 #Fijar la muestra aleatoria
 set.seed(234) 

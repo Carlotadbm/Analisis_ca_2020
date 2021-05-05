@@ -1,5 +1,8 @@
-#Enca: CORDIAM, CODEA y CHARTA
-#13 de mayo de 2020
+#Carlota de Benito Moreno
+#Análisis "ca": CORDIAM, CODEA y CHARTA
+#Apartado 4
+
+#librerías
 library(tidyverse)
 '%ni%' <- Negate('%in%')
 library(extrafont)
