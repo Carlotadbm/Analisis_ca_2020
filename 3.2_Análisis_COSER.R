@@ -60,7 +60,7 @@ levels(factor(coser_prepant_glm$Verbo)) #valor de referencia: estado
 coser_glm_prepant <- glmer(factor(Preposicion_anterior) ~ Forma*Verbo + (1 | COSERID), family = "binomial", data = coser_prepant_glm)
 summary(coser_glm_prepant) 
 range(resid(coser_glm_prepant)) 
-hist(resid(coser_glm_prepant))#parece una distribución bastante norma
+hist(resid(coser_glm_prepant))#parece una distribución bastante normal
 
 coser_glm_prepant_tidy1 <- tidy(coser_glm_prepant, exponentiate = T, conf.int = T) 
 coser_glm_prepant_tidy1
